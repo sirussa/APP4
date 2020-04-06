@@ -1,0 +1,41 @@
+body{
+background-color: #f2db0c;
+}
+
+body.agitado{
+	background-color: #241a01;
+}
+
+
+.header{
+	font-weight: bolder;
+	text-align: center;
+	font-size: 10em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.footer{
+	font-style: italic;
+	font-size: xX-large;
+	position: absolute;
+	bottom: 10px;
+	align-content: center;
+}
+
+.lectura{
+	display: block;
+	background-color: #c4beb6;
+	color: #ff5e00;
+	border: 2px;
+	border-radius: 10px;
+	width: 90%;
+	height: auto;
+	padding: 30px;
+	font-size: 10em;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	text-transform: uppercase;
+}
